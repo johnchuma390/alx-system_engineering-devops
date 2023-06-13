@@ -1,2 +1,2 @@
 #!/bin/bash
-(set -o posix; set) | grep -E '^[A-Za-z_][A-Za-z0-9_]*='
+(set -o posix; set)
